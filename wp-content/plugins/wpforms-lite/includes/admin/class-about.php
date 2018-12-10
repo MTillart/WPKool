@@ -517,7 +517,7 @@ class WPForms_About {
 						<p>
 							<?php
 							echo wp_kses(
-								__( 'Bonus: WPForms Lite users get <span class="price-20-off">20% off regular price</span>, automatically applied at checkout.', 'wpforms-lite' ),
+								__( 'Bonus: WPForms Lite users get <span class="price-20-off">50% off regular price</span>, automatically applied at checkout.', 'wpforms-lite' ),
 								array(
 									'span' => array(
 										'class' => array(),
@@ -700,7 +700,7 @@ class WPForms_About {
 					<p class="centered">
 						<?php
 						echo wp_kses(
-							__( 'Bonus: WPForms Lite users get <span class="price-20-off">20% off regular price</span>, automatically applied at checkout.', 'wpforms-lite' ),
+							__( 'Bonus: WPForms Lite users get <span class="price-20-off">50% off regular price</span>, automatically applied at checkout.', 'wpforms-lite' ),
 							array(
 								'span' => array(
 									'class' => array(),

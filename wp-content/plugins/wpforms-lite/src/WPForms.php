@@ -16,7 +16,7 @@ namespace WPForms {
 		 *
 		 * @since 1.0.0
 		 *
-		 * @var WPForms
+		 * @var \WPForms\WPForms
 		 */
 		private static $instance;
 
