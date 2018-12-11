@@ -558,7 +558,7 @@ body.saul_mobile_layout #sidebar-wrapper #scroll-sidebar .navigation i {
 @media screen and (max-width: 768px) {
 	
 	body.saul_mobile_layout #footer .widget-box {
-		margin-bottom:50px;
+		margin-bottom:100px;
 	}
 
 }
